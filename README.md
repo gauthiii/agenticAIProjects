@@ -40,6 +40,7 @@ OPENAI_API_KEY=your_openai_api_key
 ANTHROPIC_API_KEY=your_anthropic_api_key
 TAVILY_API_KEY=your_tavily_api_key
 DLAI_TAVILY_BASE_URL=https://api.tavily.com
+```
 
 
 ## Tech Stack
