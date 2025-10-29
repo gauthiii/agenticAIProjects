@@ -28,6 +28,7 @@ S.No | Project Name | Description | Key Concepts
 3 | Tool Toggle Agent | Chooses and toggles tools based on task goals | Decision Routing
 4 | Content Writing Agentic AI | Generates and refines content using constructive feedback | Reflection, Evals
 5 | Research Agentic AI | Researches topics using external tools and citation refinement | Web Tools, Self-Correction
+6 | Startup Builder | Analyses and idea communicates with 6 different agents and gives the market analysis, gap analysis, gap, scope, mvp features | Multi-Agent Workflow
 
 ---
 
