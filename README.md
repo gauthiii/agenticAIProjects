@@ -34,7 +34,7 @@ S.No | Project Name | Description | Key Concepts
 ## Tech Stack
 
 - Python
-- LangChain / LangGraph
+- AISuite
 - LLM APIs
 - Plotly / Matplotlib
 - SQLite/Postgres
