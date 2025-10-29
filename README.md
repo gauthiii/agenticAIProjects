@@ -10,12 +10,12 @@ Agentic AI goes beyond simple prompt-based responses. These projects follow a **
 
 Stage | Purpose
 ----- | --------
-1. Initial Planning & Task Decomposition | Break down a user problem into logical steps
-2. Reflective Design | Think before acting – evaluate steps and plan improvements
-3. Tool Use (Functions & External APIs) | Use tools such as databases, file systems, web search, and compute functions
-4. Evals & Error Analysis | Use feedback from LLM self-evaluation and/or external evaluators
-5. Iterative Refinement | Improve responses using refinement loops
-6. Impact Measurement | Show how structured planning improves output quality and reliability
+Initial Planning & Task Decomposition | Break down a user problem into logical steps
+Reflective Design | Think before acting – evaluate steps and plan improvements
+Tool Use (Functions & External APIs) | Use tools such as databases, file systems, web search, and compute functions
+Evals & Error Analysis | Use feedback from LLM self-evaluation and/or external evaluators
+Iterative Refinement | Improve responses using refinement loops
+Impact Measurement | Show how structured planning improves output quality and reliability
 
 ---
 
