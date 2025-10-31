@@ -29,6 +29,8 @@ S.No | Project Name | Description | Key Concepts
 4 | Content Writing Agentic AI | Generates and refines content using constructive feedback | Reflection, Evals
 5 | Research Agentic AI | Researches topics using external tools and citation refinement | Web Tools, Self-Correction
 6 | Startup Builder | Analyses and idea communicates with 6 different agents and gives the market analysis, gap analysis, gap, scope, mvp features | Multi-Agent Workflow
+7 | Portfolio Generator | Analyzes the resume, parses it, generates a portfolio website based on it | Resume Parsing, Website Generation
+8 | Stock Data Visualizer | Retreives Stock information using Yahoo finance and plots a graph based on the data. Refines the charts. Uses 5 different agents | Stock Data, Visualization, Reflection
 
 ---
 
