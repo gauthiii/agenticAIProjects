@@ -39,3 +39,6 @@ jinja2
 psycopg2-binary
 scikit-learn
 Wikipedia
+
+
+faiss-cpu
